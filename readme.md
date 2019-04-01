@@ -1,65 +1,50 @@
-## Web概念目录库
+## Web核心概念目录库
 
-### HTML
+### Web入门
+* HTML
+    * 标签
+* CSS
+    * 盒子模型         
+    * 布局
+    * 选择器
+    * 权值    
+* Javascript
+    * 变量
+    * 数据类型
+    * 函数
+    * 事件
+    * DOM
 
-* HTML结构
-* 文档类型
-* 标签语义化
-* 标签类型
-* 块状和行内标签    
-
-### CSS
-
-* 盒子模型     
-* BFC            
-* 布局        
-* 权值   
-* 选择器
-* 继承
-* 层叠
-* CSS Sprite
-
-### JavaScript
-* 语法
-* 变量
-* 执行环境
-* 数据类型
-* 类型转换
-* 函数
-    * 递归
-    * 闭包
-    * 作用域
-        * 作用域链
-    * this        
-    * argument
-* 对象
-    * 属性
-    * 模式
-        * 动态原型            
+### Web中级
+* HTML
+    * 标签语义化
+* CSS
+    * BFC            
+    * 布局    
     * 继承
-* DOM
-    * 节点类型
-    * 操作
-* 事件
-    * 事件流
-    * 事件对象
-    * 事件委托
-* BOM
-* 模块化
-* 异步回调
-* Ajax
-* 存储    
-    * Cookie
-    * Storage
-        * Localstorage
-        * SessionStorage
-        * CachaStorage
-### Node
-* 进程和子进程
-* 文件系统
+    * 层叠
+    * CSS Sprite
+* Javascript
+    * 闭包
+    * 作用域和作用域链
+    * 原型和原型链
+    * 继承
+    * 内存管理
+    * Ajax
+* HTTP
+    * URL
+    * HTTP协议
+    * 请求头
+    * 状态码
 
-### HTTP
-* URL
-* HTTP协议
-* 请求头
-* 状态码
+### Web高级
+* HTML
+* CSS    
+* Javascript
+    * 模块化
+    * 异步编程
+    * 函数式编程
+* 浏览器
+    * 解析    
+    * 渲染
+    * 排版
