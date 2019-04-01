@@ -39,8 +39,6 @@
     * 状态码
 
 ### Web高级
-* HTML
-* CSS 
 * Javascript
     * 模块化
     * 异步编程
